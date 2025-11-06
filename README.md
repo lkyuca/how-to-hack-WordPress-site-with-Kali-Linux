@@ -7,7 +7,3 @@ download the write up file and try it out for yourself
 goodluck with your attack 
 
 
-
-advised os : kali linux
-
-advised tool installed: wpscan
